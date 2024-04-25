@@ -1,0 +1,9 @@
+.main_form {
+    border-radius: 5px;
+    background: #f2f2f2;
+    padding: 20px;
+}
+
+.form-control, select {
+    width: 100%;
+}
